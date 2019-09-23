@@ -1,2 +1,1 @@
-# Cirilo-Gaspar-Nfube
-Amante de la programación.
+Amante de la programación y de otras cosas
